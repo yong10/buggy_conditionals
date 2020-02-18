@@ -2,10 +2,10 @@ var firstName = "Robert";
 var nickName = "Bob";
 var petName = "Fluffy";
 var petType = "Turtle";
-if(firstName = "Robert"){
+if(firstName == "Robert"){
     console.log("Hi Robert");
 }
-if(nickName = "Bob"){
+if(nickName == "Bob"){
     console.log("Hi Bob");
 }
 else{
